@@ -14,14 +14,14 @@ This is a Login/Registeration CRUD app coded in c# with attached mysql database.
 
 ## Here are some screenshot of login/register app.
 ## Loading Screen
-![](screenshots/screen1.PNG)
+![](screenshot/screen1.PNG)
 ## Login Page
-![](screenshots/screen2.PNG)
+![](screenshot/screen2.PNG)
 ## Registration Page
-![](screenshots/screen3.PNG)
+![](screenshot/screen3.PNG)
 ## Home Page
-![](screenshots/screen4.PNG)
+![](screenshot/screen4.PNG)
 ## Database
-![](screenshots/screen5.PNG)
+![](screenshot/screen5.PNG)
 
 IF any queries you can ask me i will try to reply as soon as possible!
