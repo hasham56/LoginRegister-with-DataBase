@@ -7,7 +7,7 @@ This is a Login/Registeration CRUD app coded in c# with attached mysql database.
  - Step3: Build and Run.
 
 ## Features
- - **Good quality winform GUI**
+ - **Good quality winform GUI and Loading Screen**
  - **Custom DataBase to store your user data**
  - **Stores user information and credentials in database**
  - **Retrieve data from database while logging in**
