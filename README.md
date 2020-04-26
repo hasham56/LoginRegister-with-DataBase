@@ -1,5 +1,5 @@
 # LoginRegister-with-DataBase
-This is a Login/Registeration CRUD app coded in c# with attached mysql database.
+This is a Login/Registeration app coded in c# with attached mysql database.
 
 ## Setup
  - Step1: Run Xampp Apache and Mysql.
