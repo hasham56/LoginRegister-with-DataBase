@@ -3,7 +3,7 @@ This is a Login/Registeration app coded in c# with attached mysql database.
 
 ## Setup
  - Step1: Run Xampp Apache and Mysql.
- - Step2: Cut and Pase "chatapp" folder in "C:\xampp\mysql\data".
+ - Step2: Cut and Paste "chatapp" folder in "C:\xampp\mysql\data".
  - Step3: Build and Run.
 
 ## Features
